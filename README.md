@@ -211,10 +211,6 @@ In order to use existing models: gpt-4o-mini and text-embedding-ada-002, you nee
 - [Chroma DB C# SDK Announcement](https://devblogs.microsoft.com/dotnet/announcing-chroma-db-csharp-sdk/)
 - [eShopLite Semantic Search Sample](https://github.com/Azure-Samples/eShopLite-SemanticSearch)
 
-## Video Demonstrations
-
-- COMING SOON! [Run eShopLite Semantic Search with Chroma DB in Minutes](https://youtu.be/YourVideoLink)
-
 ## Guidance
 
 ### Costs
