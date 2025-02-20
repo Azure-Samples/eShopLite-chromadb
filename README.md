@@ -63,7 +63,7 @@ From a Terminal window, open the folder with the clone of this repo and run the 
 
 ### Chroma DB Overview
 
-1. The AspireHost project will be in charge to **Run Chroma DB Locally**: 
+1. The AspireHost project will be in charge to **provision and run Chroma DB (locally for dev environments)**: 
 
    Instead of using the the Chroma Docker image to start a local instance of Chroma DB.
 
