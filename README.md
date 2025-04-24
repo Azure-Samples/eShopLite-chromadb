@@ -1,4 +1,9 @@
-﻿# eShopLite - Semantic Search with Chroma DB
+> ⚠️ **This repository is archived.**  
+> All content and ongoing development have been moved to the main **eShopLite** repository: [https://aka.ms/eshoplite/repo](https://aka.ms/eshoplite/repo).  
+> Please use the new repository for the latest updates, issues, and contributions.
+---
+
+ # eShopLite - Semantic Search with Chroma DB
 
 eShopLite is a reference .NET application that implements an eCommerce site with advanced search features, including both keyword and semantic search capabilities. This version utilizes [Chroma DB](https://devblogs.microsoft.com/dotnet/announcing-chroma-db-csharp-sdk/), an open-source database designed for AI applications, to enhance semantic search functionality.
 
